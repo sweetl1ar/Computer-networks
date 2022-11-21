@@ -1,0 +1,7 @@
+C:\Users\smena1\Desktop\Belyakova, Ishenko\orm3.Tests\orm3\bin\Debug\orm3.exe.config
+C:\Users\smena1\Desktop\Belyakova, Ishenko\orm3.Tests\orm3\bin\Debug\orm3.exe
+C:\Users\smena1\Desktop\Belyakova, Ishenko\orm3.Tests\orm3\bin\Debug\orm3.pdb
+C:\Users\smena1\Desktop\Belyakova, Ishenko\orm3.Tests\orm3\obj\Debug\orm3.csproj.AssemblyReference.cache
+C:\Users\smena1\Desktop\Belyakova, Ishenko\orm3.Tests\orm3\obj\Debug\orm3.csproj.CoreCompileInputs.cache
+C:\Users\smena1\Desktop\Belyakova, Ishenko\orm3.Tests\orm3\obj\Debug\orm3.exe
+C:\Users\smena1\Desktop\Belyakova, Ishenko\orm3.Tests\orm3\obj\Debug\orm3.pdb
